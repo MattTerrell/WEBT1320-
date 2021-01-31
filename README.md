@@ -4,4 +4,4 @@
 
 <a href="Lab1Demo/index.html">Lab 1 Demo</a>
 
-<a href="Lab1/index.html"> Lab1 - Hello World</a>
+<a href="Lab 1/index.html">Lab1 - Hello World</a>
