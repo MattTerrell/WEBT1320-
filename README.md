@@ -6,3 +6,4 @@
 
 <a href="Lab 1/index.html">Lab1 - Hello World</a><br>
 <a href="lab2demo?index.html">Lab2 - Pictures</a>
+<a href="Lab 2/index.html"> Lab 2 - Basic HTML Structure</a>
