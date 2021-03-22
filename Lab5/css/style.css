@@ -1,5 +1,7 @@
 /* Global Styles */
 
+
+
 body {
     background-color:black;
 }
@@ -13,20 +15,20 @@ a {
 }
 
 a:hover {
-    color: orange;
+    color: purple;
     text-decoration: none;
 }
 
 /* Mobile Styles */
 
 header {
-    background-color: yellowgreen;
+    background-color: pink;
     padding: 40px 0;
     text-align: center;
 }
 
 nav {
-    background-color:white;
+    background-color: lightskyblue;
     text-align: center;
 }
 
@@ -42,24 +44,24 @@ nav li {
 nav li a {
     display: block;
     padding: 15px 0;
-    border-top: 1px solid tan;
+    border-top: 1px solid black;
     font-size: 1.5em;
     font-weight: bold;
     text-decoration: none;
 }
 
 nav ul a:hover {
-    background-color: tan;
+    background-color:lightsalmon;
 }
 
 main {
-    background-color: white;
+    background-color: pink;
     padding: 20px;
     margin: 10px;
 }
 
 footer {
-    background-color: white;
+    background-color: black;
     text-align: center;
     padding: 20px;
     margin: 10px;
