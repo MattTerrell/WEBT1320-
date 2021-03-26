@@ -13,5 +13,5 @@
         <li><a href="Lab4/index.html"> Lab 4 - Introduction to CSS </a></li>
          <li><a href="Midterm/index.html"> Mid-Term Project </a></li>
          <li><a href="Lab5/index.html"> Lab 5 - Mobile Website Layout </a></li>
-           <li><a href="Lab6/index.html"> Lab 6 - Desk Website Layout </a></li>
+           <li><a href="Lab6/index.html"> Lab 6 - Desk Top Website Layout </a></li>
          
