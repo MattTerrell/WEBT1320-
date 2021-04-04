@@ -14,4 +14,5 @@
          <li><a href="Midterm/index.html"> Mid-Term Project </a></li>
          <li><a href="Lab5/index.html"> Lab 5 - Mobile Website Layout </a></li>
            <li><a href="Lab6/index.html"> Lab 6 - Desk Top Website Layout </a></li>
+           <li><a href="Lab7/index.html"> Lab 7 - Audio, Visual, and Table </a></li>
          
