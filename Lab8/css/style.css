@@ -1,0 +1,181 @@
+body {
+    background-color:darkgrey
+}
+
+header  {
+    background-color: green;
+    color: black;
+    padding: 15% 2%;
+    text-align: center;
+    font-size: 125%;
+}
+
+body {
+    background-color: black;
+}
+
+nav {
+    background-color: black;
+}
+
+nav ul{
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+    display: block;
+}
+
+nav li a {
+    display: inline-block;
+    width: 100%;
+    padding: 10px 0;
+    background-color: white;
+    text-align: center;
+    color: green;
+    font-size: 125%;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: white;
+    color: green;
+}
+
+main {
+    background-color: black;
+    padding: 10px;
+}
+
+article {
+    background-color: green;
+    padding: 2%;
+}
+
+article img {
+    display: block;
+    margin: 20px auto;
+    width: 100%;
+    border-radius: 20px;
+}
+
+.projects {
+    background-color: white;
+    padding: 2%;
+    margin-top: 2%;
+}
+
+.projects img {
+    display: block;
+    width: 100%;
+    margin: 1% 0;
+    border-radius: 10px;
+}
+
+aside {
+    background-color: #ffffff;
+    margin: 1% 0;
+    padding: 2%;
+    text-align: center;
+}
+
+aside h4 {
+    margin-bottom: 40px;
+}
+
+aside ul {
+    padding: 0;
+    list-style: none;
+}
+
+aside li {
+    display: inline-block;
+}
+
+aside li a {
+    padding: 20px 40px;
+    background-color: #B3A29A;
+    text-align: center;
+    color: #F5FFFE;
+    font-size: 125%;
+    text-decoration: none;
+}
+
+aside li a:hover {
+    background-color: green;
+}
+
+footer {
+    background-color: green;
+    text-align: center;
+    color: #ffffff;
+    padding: 20px 0;
+}
+
+.feature {
+    background-color: #ffffff;
+    padding: 10px;
+    margin-top: 1%
+}
+
+#menu {
+    display: none; 
+}
+
+div.bx-wrapper {
+    display: none;
+}
+
+@media only screen and (min-width: 481px) {
+    nav {
+        text-align: center;
+    }
+
+    nav li {
+        display: inline-block;
+        width: 24.5%;
+    }
+
+    nav li a {
+        background-color: black;
+        color: #F5FFFE;
+    }
+
+    #menu {
+        display: block;
+    }
+
+    .slicknav_menu {
+        display: none;
+    }
+
+    div.bx-wrapper {
+        display: block;
+    }
+
+}
+
+@media only screen and (min-width: 791px) {
+
+    article img {
+        display: block;
+        margin: 20px auto;
+        width: 65%;
+    }
+
+    .feature {
+        background-color: #ffffff;
+        padding: 20px;
+        margin-top: 1%;
+    }
+
+    .projects {
+        display: flex;
+    }
+
+    .projects img {
+        margin: 1%;
+    }
+
+}
