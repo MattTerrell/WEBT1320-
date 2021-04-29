@@ -16,4 +16,4 @@
            <li><a href="Lab6/index.html"> Lab 6 - Desk Top Website Layout </a></li>
            <li><a href="Lab7/index.html"> Lab 7 - Audio, Visual, and Table </a></li>
            <li><a href="Lab8/index.html"> Lab 8 - Introduction to jQuery </a></li>
-         
+                    <li><a href="FinalExam/index.html"> Final Exam </a></li>
